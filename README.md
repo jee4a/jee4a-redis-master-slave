@@ -1,2 +1,2 @@
 # jee4a-redis-master-slave
-客户端主从+sentinel 示例
+redis主从集群+sentinel 示例
